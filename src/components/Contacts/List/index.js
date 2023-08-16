@@ -36,6 +36,7 @@ function List({ contacts }) {
       <p>
         Total Contacts ({filtered.length})
       </p>
+      
     </div>
   );
 }
